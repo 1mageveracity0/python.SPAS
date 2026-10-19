@@ -1,0 +1,82 @@
+========================================================================
+             STUDENT PERFORMANCE ANALYSIS REPORT
+========================================================================
+
+Student ID : 25/222
+Name       : Sandra Mutegi
+Programme  : MDS
+Subject marks:
+  Math      : 75.0
+  English   : 80.0
+  Science   : 70.0
+Average    : 75.00%
+Grade      : B
+Scholarship: Not eligible (average below 85%)
+Student type: Sandra Mutegi is an AIU student in MDS.
+
+Student ID : 25/224
+Name       : Carlos Ndunda
+Programme  : MDS
+Subject marks:
+  Math      : 90.0
+  English   : 85.0
+  Science   : 88.0
+Average    : 87.67%
+Grade      : A
+Scholarship: Eligible (KES 20,000.00)
+Student type: Carlos Ndunda is scholarship-eligible (KES 20,000.00).
+
+Student ID : 25/226
+Name       : Paul Omboga
+Programme  : MDA
+Subject marks:
+  Math      : 60.0
+  English   : 65.0
+  Science   : 58.0
+Average    : 61.00%
+Grade      : C
+Scholarship: Not eligible (average below 85%)
+Student type: Paul Omboga is an AIU student in MDA.
+
+Student ID : 25/228
+Name       : Ruth Mwimali
+Programme  : MDA
+Subject marks:
+  Math      : 95.0
+  English   : 92.0
+  Science   : 90.0
+Average    : 92.33%
+Grade      : A
+Scholarship: Eligible (KES 20,000.00)
+Student type: Ruth Mwimali is scholarship-eligible (KES 20,000.00).
+
+Student ID : 25/230
+Name       : Amina Wanjiku
+Programme  : MDS
+Subject marks:
+  Math      : 84.0
+  English   : 87.0
+  Science   : 86.0
+Average    : 85.67%
+Grade      : A
+Scholarship: Eligible (KES 20,000.00)
+Student type: Amina Wanjiku is scholarship-eligible (KES 20,000.00).
+
+------------------------------------------------------------------------
+CLASS SUMMARY
+------------------------------------------------------------------------
+Highest average : Ruth Mwimali (92.33%)
+Lowest average  : Paul Omboga (61.00%)
+Class average   : 80.33%
+
+REFLECTION
+A challenge was connecting CSV text values to validated numeric marks and
+organizing the classes so that each responsibility is handled in one place.
+Using small methods, validation, and inheritance made the program easier
+to test and maintain.
+
+AI USE DECLARATION
+AI assistance was used to help plan, explain, and review the program.
+I reviewed the code and am responsible for understanding, testing, and
+explaining the final submission in accordance with my institution's rules.
+========================================================================
